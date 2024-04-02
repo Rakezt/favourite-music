@@ -13,7 +13,7 @@ export default function App() {
     <div className="App">
       <div className="cover">
         <div className="nav">
-          <h1>🤘 FAVOURITE SONG</h1>
+          <h1>BillBoard Top Song</h1>
           <h2>Select a genre to find out</h2>
           <div>
             {Object.keys(topSongs).map((item) => (
