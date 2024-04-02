@@ -3,8 +3,7 @@
 Welcome to Favorite Music, a React application where you can explore top songs across different genres!
 
 ### Snippet
-<img width="379" alt="image" src="https://github.com/Rakezt/favourite-music/assets/110081692/9e04733c-1fcd-409f-927d-ddf80acaf148">
-
+<img width="455" alt="image" src="https://github.com/Rakezt/favourite-music/assets/110081692/c410a9ab-e799-440f-9d9c-90087ae2fbce">
 
 ## Overview
 This project showcases a simple user interface where users can select a genre and view a list of top songs within that genre. Users can easily navigate between genres using the provided buttons.
