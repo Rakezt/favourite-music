@@ -1,6 +1,6 @@
 
-# Favorite Music
-Welcome to Favorite Music, a React application where you can explore top songs across different genres!
+# Favourite Music
+Welcome to Favourite Music, a React application where you can explore top songs across different genres!
 
 ### Snippet
 <img width="455" alt="image" src="https://github.com/Rakezt/favourite-music/assets/110081692/c410a9ab-e799-440f-9d9c-90087ae2fbce">
